@@ -1,3 +1,3 @@
 # EveryCryptography
 
-There are everything I know about Cryptography (At the moment), seriouly, everything.
+This repository is related with everything I know about Cryptography (At the moment), seriouly, everything.
